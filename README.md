@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, I'm Vince. Welcome to my GitHub
+
+- 🔭 I’m currently working on SoundShare a SoundCloud Clone
+- 🌱 I’m currently learning Express.js and MongoDB and Python
+- 📫 How to reach me: vmemmo1@gmail.com
 
 <!--
 **vince-memmo/vince-memmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
